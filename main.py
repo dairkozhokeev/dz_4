@@ -1,6 +1,7 @@
 # This is a sample Python script.
 import decouple
 
+
 TOKEN = ''
 
 # Press Shift+F10 to execute it or replace it with your code.
